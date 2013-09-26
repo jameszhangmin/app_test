@@ -1,0 +1,7 @@
+#Ignore all dotfiles...
+.*
+*.class
+#except for .gitignore
+!.gitignore
+
+**/target/**
