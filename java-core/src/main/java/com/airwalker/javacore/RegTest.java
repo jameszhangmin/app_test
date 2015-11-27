@@ -1,4 +1,4 @@
-package com.zhangmin.app;
+package com.airwalker.javacore;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

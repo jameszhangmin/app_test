@@ -1,4 +1,4 @@
-package com.zhangmin.app;
+package com.airwalker.javacore;
 
 public class OperatioinTest {
 	public static void main(String[] args) {

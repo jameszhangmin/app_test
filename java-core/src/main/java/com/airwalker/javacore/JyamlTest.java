@@ -1,4 +1,4 @@
-package com.zhangmin.app;
+package com.airwalker.javacore;
 
 import java.io.BufferedReader;
 import java.io.File;

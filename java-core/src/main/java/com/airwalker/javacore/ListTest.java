@@ -1,4 +1,4 @@
-package com.zhangmin.app;
+package com.airwalker.javacore;
 
 import java.util.ArrayList;
 import java.util.List;
