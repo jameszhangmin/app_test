@@ -5,3 +5,17 @@
 !.gitignore
 
 **/target/**
+
+# IntelliJ project files
+.idea
+.idea/
+*.iml
+out
+gen
+target/
+
+# Eclipse project files
+.settings
+.settings/
+.classpath
+.project
