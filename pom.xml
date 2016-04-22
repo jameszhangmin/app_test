@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>java-core</module>
+        <module>spring-data-redis</module>
     </modules>
 
 
@@ -12,6 +13,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.test.skip>true</maven.test.skip>
         <maven.test.failure.ignore>true</maven.test.failure.ignore>
+
+        <junit.version>4.10</junit.version>
     </properties>
 
     <groupId>com.airwalker.app-test</groupId>
